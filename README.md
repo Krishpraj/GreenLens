@@ -6,6 +6,11 @@
     <img src="./frontend/app/favicon.ico" alt="Green Lens Logo" width="200" height="200">
 </p>
 
+
+https://github.com/user-attachments/assets/d84e0afc-591a-4203-8b15-7a2e5ba3b16b
+
+
+
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-Latest-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
